@@ -1,0 +1,6 @@
+[submodule "NelaTicket-Frontend"]
+	path = NelaTicket-Frontend
+	url = https://github.com/SridharSolaris/NelaTicket-Frontend
+[submodule "NelaTicket-Backend"]
+	path = NelaTicket-Backend
+	url = https://github.com/SridharSolaris/NelaTicket-Backend
